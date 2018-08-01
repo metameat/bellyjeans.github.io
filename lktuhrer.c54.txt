@@ -1,0 +1,37 @@
+﻿present
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   css/bootstrap.css
+#	new file:   css/jquery.hoverGrid.css
+#	new file:   css/style.css
+#	new file:   images/big-btn.png
+#	new file:   images/nav-icon.png
+#	new file:   images/slide1.jpg
+#	new file:   images/t-social.png
+#	new file:   images/t1.jpg
+#	new file:   images/t2.jpg
+#	new file:   images/t3.jpg
+#	new file:   images/t4.jpg
+#	new file:   images/to-top1.png
+#	new file:   images/upload.png
+#	new file:   images/w1.jpg
+#	new file:   images/w2.jpg
+#	new file:   images/w3.jpg
+#	new file:   images/w4.jpg
+#	new file:   images/w5.jpg
+#	new file:   images/w6.jpg
+#	new file:   images/w7.png
+#	new file:   images/w8.jpg
+#	new file:   images/w9.jpg
+#	new file:   js/easing.js
+#	new file:   js/jquery.hoverGrid.js
+#	new file:   js/jquery.min.js
+#	new file:   js/move-top.js
+#	new file:   present.html
+#
+
